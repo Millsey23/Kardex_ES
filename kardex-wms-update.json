@@ -1,10 +1,10 @@
 ﻿{
     "product":  "Kardex WMS",
-    "version":  "1.0.6",
-    "releaseDate":  "2026-07-02 10:12",
-    "installerUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/v1.0.6/Kardex.WMS.Setup.1.0.6.exe",
-    "sha256":  "8158DF7D8AD608C24558202DE67C49649AF54D4D5D48C2517AEB58CBF4DF1040",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%201.0.6.md",
+    "version":  "1.0.7",
+    "releaseDate":  "2026-07-02 16:30",
+    "installerUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/v1.0.7/Kardex.WMS.Setup.1.0.7.exe",
+    "sha256":  "3C37C5D1947D955DE40874B6F74117AF8B49D52E0A7042642A72E7CC7184A2E5",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%201.0.7.md",
     "releaseNotes":  [
                          "Review the packaged release notes for the full change list.",
                          "Download and run the setup file to update Kardex WMS."
