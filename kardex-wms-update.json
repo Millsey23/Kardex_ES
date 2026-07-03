@@ -1,12 +1,15 @@
 ﻿{
     "product":  "Kardex WMS",
-    "version":  "1.0.8",
-    "releaseDate":  "2026-07-03 09:20",
-    "installerUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/v1.0.8/Kardex.WMS.Setup.1.0.8.exe",
-    "sha256":  "9940CDBBF3651FD2F165D81A9153291A182694C977FA361242D24C16A84BAE1A",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%201.0.8.md",
+    "version":  "1.0.9",
+    "releaseDate":  "2026-07-03 10:59",
+    "installerUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/v1.0.9/Kardex.WMS.Setup.1.0.9.exe",
+    "sha256":  "92B9672FCFB7A7BBFA8108BC531CA5596F3F1E578736BDCF8B4361A52951A29F",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/v1.0.9/Kardex.WMS.Update.1.0.9.zip",
+    "packageSha256":  "55C8C72F81FB520CEA84773716E9C68CBFD7EE561A795849C27942C5FF028490",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%201.0.9.md",
     "releaseNotes":  [
-                         "Review the packaged release notes for the full change list.",
-                         "Download and run the setup file to update Kardex WMS."
+                         "Adds a lightweight in-app update package for normal updates.",
+                         "Keeps the full setup installer available for clean installs, repair installs, and fallback updates.",
+                         "Verifies downloaded update files with SHA-256 before installation."
                      ]
 }
