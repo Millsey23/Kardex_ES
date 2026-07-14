@@ -1,0 +1,15 @@
+﻿{
+    "product":  "Kardex Support Suite",
+    "version":  "0.4.5",
+    "releaseDate":  "2026-07-14 09:21",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.5/Kardex.Support.Suite.Update.0.4.5.kdxupd",
+    "updateFileSha256":  "07FB986808675359A249358CDE61679E2156A17DCE43C3C56E1008445DCCE3CF",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.5/Kardex.Support.Suite.Update.0.4.5.kdxupd",
+    "packageSha256":  "07FB986808675359A249358CDE61679E2156A17DCE43C3C56E1008445DCCE3CF",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.5.md",
+    "releaseNotes":  [
+                         "Checks for updates automatically each time the suite opens.",
+                         "Downloads passive .kdxupd update data from GitHub and verifies it with SHA-256.",
+                         "The installed suite applies the update file and restarts itself."
+                     ]
+}
