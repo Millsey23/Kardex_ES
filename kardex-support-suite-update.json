@@ -8,8 +8,9 @@
     "packageSha256":  "92F90453A522A8B14CD827E72ABB3608F7BF95A0D29ED44834F55A05835ECB7B",
     "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.15.md",
     "releaseNotes":  [
-                         "Checks for updates automatically each time the suite opens.",
-                         "Downloads passive .kdxupd update data from GitHub and verifies it with SHA-256.",
-                         "The installed suite applies the update file and restarts itself."
+                         "Reworks Support Tools into clearer workflow groups with a new Report Builder.",
+                         "Makes suite project saves compact and adds save progress windows.",
+                         "Adds the Support Suite application icon and bundles Power Pick release-note upgrade guidance.",
+                         "Fixes shared page headers so subtitles no longer overlap page content."
                      ]
 }
