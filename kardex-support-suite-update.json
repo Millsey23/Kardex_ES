@@ -1,16 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.15",
-    "releaseDate":  "2026-07-17 15:34",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.15/Kardex.Support.Suite.Update.0.4.15.kdxupd",
-    "updateFileSha256":  "92F90453A522A8B14CD827E72ABB3608F7BF95A0D29ED44834F55A05835ECB7B",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.15/Kardex.Support.Suite.Update.0.4.15.kdxupd",
-    "packageSha256":  "92F90453A522A8B14CD827E72ABB3608F7BF95A0D29ED44834F55A05835ECB7B",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.15.md",
+    "version":  "0.4.16",
+    "releaseDate":  "2026-07-17 16:03",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.16/Kardex.Support.Suite.Update.0.4.16.kdxupd",
+    "updateFileSha256":  "A23F4AD32D353BFDD86AC50724BA4B043FF7AE1C467520B12DEDB98999767378",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.16/Kardex.Support.Suite.Update.0.4.16.kdxupd",
+    "packageSha256":  "A23F4AD32D353BFDD86AC50724BA4B043FF7AE1C467520B12DEDB98999767378",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.16.md",
     "releaseNotes":  [
-                         "Reworks Support Tools into clearer workflow groups with a new Report Builder.",
-                         "Makes suite project saves compact and adds save progress windows.",
-                         "Adds the Support Suite application icon and bundles Power Pick release-note upgrade guidance.",
-                         "Fixes shared page headers so subtitles no longer overlap page content."
+                         "Checks for updates automatically each time the suite opens.",
+                         "Downloads passive .kdxupd update data from GitHub and verifies it with SHA-256.",
+                         "The installed suite applies the update file and restarts itself."
                      ]
 }
