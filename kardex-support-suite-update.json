@@ -1,15 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.29",
-    "releaseDate":  "2026-08-04 14:51",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.29/Kardex.Support.Suite.Update.0.4.29.kdxupd",
-    "updateFileSha256":  "8A93A029E1E96588A000C630B7C2CA3B5BF97673252D5F8CECD1A804019A3FB7",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.29/Kardex.Support.Suite.Update.0.4.29.kdxupd",
-    "packageSha256":  "8A93A029E1E96588A000C630B7C2CA3B5BF97673252D5F8CECD1A804019A3FB7",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.29.md",
+    "version":  "0.4.30",
+    "releaseDate":  "2026-08-04 15:27",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.30/Kardex.Support.Suite.Update.0.4.30.kdxupd",
+    "updateFileSha256":  "C35BBEB38D17859C0206C9F05047B74BB9D7C820CA20A5361188F0BE901B8D49",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.30/Kardex.Support.Suite.Update.0.4.30.kdxupd",
+    "packageSha256":  "C35BBEB38D17859C0206C9F05047B74BB9D7C820CA20A5361188F0BE901B8D49",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.30.md",
     "releaseNotes":  [
-                         "Refines the Warehouse Advanced Strategy New Units workflow.",
-                         "Adds a slide-style Placement Presentation PDF and step-through preload HTML.",
-                         "Treats LR35 / VBM as the fastest machine class and prioritises it for high runners where fit and capacity allow."
+                         "Adds the consolidated New Units Strategy Report as the main customer-facing New Units output.",
+                         "Includes movement tiers, Kardex versus static rack allocation, module opportunities, risks and sign-off sections.",
+                         "Keeps Preload HTML and Part Placement HTML as visual operational outputs."
                      ]
 }
