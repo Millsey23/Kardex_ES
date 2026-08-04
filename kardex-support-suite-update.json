@@ -1,15 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.28",
-    "releaseDate":  "2026-08-04 14:22",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.28/Kardex.Support.Suite.Update.0.4.28.kdxupd",
-    "updateFileSha256":  "B4B88CDEE376531C071E82D576D505E4E1857808CE717ABC060ABDD276DD7F3C",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.28/Kardex.Support.Suite.Update.0.4.28.kdxupd",
-    "packageSha256":  "B4B88CDEE376531C071E82D576D505E4E1857808CE717ABC060ABDD276DD7F3C",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.28.md",
+    "version":  "0.4.29",
+    "releaseDate":  "2026-08-04 14:51",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.29/Kardex.Support.Suite.Update.0.4.29.kdxupd",
+    "updateFileSha256":  "8A93A029E1E96588A000C630B7C2CA3B5BF97673252D5F8CECD1A804019A3FB7",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.29/Kardex.Support.Suite.Update.0.4.29.kdxupd",
+    "packageSha256":  "8A93A029E1E96588A000C630B7C2CA3B5BF97673252D5F8CECD1A804019A3FB7",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.29.md",
     "releaseNotes":  [
-                         "Adds a New Units Placement Presentation PDF inside Warehouse Advanced Strategy.",
-                         "Summarises parts assessed, Kardex allocation, rack-retained parts, fast movers, machine allocation and expected picking impact.",
-                         "Keeps detailed preload and placement exports available for engineering validation."
+                         "Refines the Warehouse Advanced Strategy New Units workflow.",
+                         "Adds a slide-style Placement Presentation PDF and step-through preload HTML.",
+                         "Treats LR35 / VBM as the fastest machine class and prioritises it for high runners where fit and capacity allow."
                      ]
 }
