@@ -1,15 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.30",
-    "releaseDate":  "2026-08-04 15:27",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.30/Kardex.Support.Suite.Update.0.4.30.kdxupd",
-    "updateFileSha256":  "C35BBEB38D17859C0206C9F05047B74BB9D7C820CA20A5361188F0BE901B8D49",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.30/Kardex.Support.Suite.Update.0.4.30.kdxupd",
-    "packageSha256":  "C35BBEB38D17859C0206C9F05047B74BB9D7C820CA20A5361188F0BE901B8D49",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.30.md",
+    "version":  "0.4.31",
+    "releaseDate":  "2026-08-04 16:19",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.31/Kardex.Support.Suite.Update.0.4.31.kdxupd",
+    "updateFileSha256":  "B0D11472C2A21AD7C4F55B19CF4AF580BA7254D7D3B32C90D7882CBE7C34B2A6",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.31/Kardex.Support.Suite.Update.0.4.31.kdxupd",
+    "packageSha256":  "B0D11472C2A21AD7C4F55B19CF4AF580BA7254D7D3B32C90D7882CBE7C34B2A6",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.31.md",
     "releaseNotes":  [
-                         "Adds the consolidated New Units Strategy Report as the main customer-facing New Units output.",
-                         "Includes movement tiers, Kardex versus static rack allocation, module opportunities, risks and sign-off sections.",
-                         "Keeps Preload HTML and Part Placement HTML as visual operational outputs."
+                         "Moves top-bar suite actions into cleaner Project, Admin and Tools dropdown menus.",
+                         "Adds a collapsible module rail and replaces the Advanced Strategy button strip with a Workflow dropdown.",
+                         "Updates New Units bin-fit logic and the Amazon-style ERP test pack with realistic bin sizes and 85% usable-space quantity rules."
                      ]
 }
