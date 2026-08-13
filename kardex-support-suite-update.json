@@ -1,15 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.31",
-    "releaseDate":  "2026-08-04 16:19",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.31/Kardex.Support.Suite.Update.0.4.31.kdxupd",
-    "updateFileSha256":  "B0D11472C2A21AD7C4F55B19CF4AF580BA7254D7D3B32C90D7882CBE7C34B2A6",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.31/Kardex.Support.Suite.Update.0.4.31.kdxupd",
-    "packageSha256":  "B0D11472C2A21AD7C4F55B19CF4AF580BA7254D7D3B32C90D7882CBE7C34B2A6",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.31.md",
+    "version":  "0.4.32",
+    "releaseDate":  "2026-08-13 21:15",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.32/Kardex.Support.Suite.Update.0.4.32.kdxupd",
+    "updateFileSha256":  "1413D48D0D51594AAED36B13F8FE3FBE8F24AA7509CF814B03B5EDECD675358C",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.32/Kardex.Support.Suite.Update.0.4.32.kdxupd",
+    "packageSha256":  "1413D48D0D51594AAED36B13F8FE3FBE8F24AA7509CF814B03B5EDECD675358C",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.32.md",
     "releaseNotes":  [
-                         "Moves top-bar suite actions into cleaner Project, Admin and Tools dropdown menus.",
-                         "Adds a collapsible module rail and replaces the Advanced Strategy button strip with a Workflow dropdown.",
-                         "Updates New Units bin-fit logic and the Amazon-style ERP test pack with realistic bin sizes and 85% usable-space quantity rules."
+                         "Adds the consolidated New Units Strategy Report as the main customer-facing New Units output.",
+                         "Includes movement tiers, Kardex versus static rack allocation, module opportunities, risks and sign-off sections.",
+                         "Keeps Preload HTML and Part Placement HTML as visual operational outputs."
                      ]
 }
