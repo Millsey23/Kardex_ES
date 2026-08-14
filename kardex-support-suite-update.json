@@ -1,15 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.37",
-    "releaseDate":  "2026-08-14 11:46",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.37/Kardex.Support.Suite.Update.0.4.37.kdxupd",
-    "updateFileSha256":  "E710DCA46CDDA4E9DC1885D42E53F498FB2BB6599A7259C604368F50DBE49A3A",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.37/Kardex.Support.Suite.Update.0.4.37.kdxupd",
-    "packageSha256":  "E710DCA46CDDA4E9DC1885D42E53F498FB2BB6599A7259C604368F50DBE49A3A",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.37.md",
+    "version":  "0.4.38",
+    "releaseDate":  "2026-08-14 12:21",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.38/Kardex.Support.Suite.Update.0.4.38.kdxupd",
+    "updateFileSha256":  "00B670FB9B277568279F4F664F0ACAB047F8A936CFFAF930FF7E5681ABA77FE7",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.38/Kardex.Support.Suite.Update.0.4.38.kdxupd",
+    "packageSha256":  "00B670FB9B277568279F4F664F0ACAB047F8A936CFFAF930FF7E5681ABA77FE7",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.38.md",
     "releaseNotes":  [
-                         "Adds a proper visitor reception / site check-in render asset for customer warehouse renders.",
-                         "Adds a dedicated Office / Control Room render asset and maps office layout elements to it.",
-                         "Improves Packing Machine and Handoff Zone render assets for clearer customer-facing warehouse images."
+                         "Raises customer warehouse render output resolution and exports closer isometric views for sharper zooming.",
+                         "Adds Goods Out and Dispatch Area render assets so outbound areas no longer appear as plain blocks.",
+                         "Defaults aisles, Kardex machines, conveyors and packing machines to east-west front/rear orientation in renders."
                      ]
 }
