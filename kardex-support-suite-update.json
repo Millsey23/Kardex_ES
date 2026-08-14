@@ -8,8 +8,9 @@
     "packageSha256":  "F4599ECA74C9582621AE57C73CC14B2616836247786E42EEB6467F0F49FF2F27",
     "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.33.md",
     "releaseNotes":  [
-                         "Adds the consolidated New Units Strategy Report as the main customer-facing New Units output.",
-                         "Includes movement tiers, Kardex versus static rack allocation, module opportunities, risks and sign-off sections.",
-                         "Keeps Preload HTML and Part Placement HTML as visual operational outputs."
+                         "Fixes update package downloads timing out after 45 seconds on slower or inspected network connections.",
+                         "Keeps the GitHub manifest check quick while allowing the larger .kdxupd update package to stream for up to 30 minutes.",
+                         "Downloads update packages through a temporary .download file first, preventing failed downloads from leaving corrupt update packages behind.",
+                         "Improves the timeout message so support can distinguish a manifest/channel problem from a slow package download."
                      ]
 }
