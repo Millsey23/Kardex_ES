@@ -1,16 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.33",
-    "releaseDate":  "2026-08-14 09:49",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.33/Kardex.Support.Suite.Update.0.4.33.kdxupd",
-    "updateFileSha256":  "F4599ECA74C9582621AE57C73CC14B2616836247786E42EEB6467F0F49FF2F27",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.33/Kardex.Support.Suite.Update.0.4.33.kdxupd",
-    "packageSha256":  "F4599ECA74C9582621AE57C73CC14B2616836247786E42EEB6467F0F49FF2F27",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.33.md",
+    "version":  "0.4.34",
+    "releaseDate":  "2026-08-14 10:09",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.34/Kardex.Support.Suite.Update.0.4.34.kdxupd",
+    "updateFileSha256":  "D3BD4B0F2DC5250597F85CE6B0797ABC7DFB216875458B8E703B5DA5561392FA",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.34/Kardex.Support.Suite.Update.0.4.34.kdxupd",
+    "packageSha256":  "D3BD4B0F2DC5250597F85CE6B0797ABC7DFB216875458B8E703B5DA5561392FA",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.34.md",
     "releaseNotes":  [
-                         "Fixes update package downloads timing out after 45 seconds on slower or inspected network connections.",
-                         "Keeps the GitHub manifest check quick while allowing the larger .kdxupd update package to stream for up to 30 minutes.",
-                         "Downloads update packages through a temporary .download file first, preventing failed downloads from leaving corrupt update packages behind.",
-                         "Improves the timeout message so support can distinguish a manifest/channel problem from a slow package download."
+                         "Publishes a small transition update so older installed copies can receive the updater timeout fix without downloading the full suite package inside the old 45-second limit.",
+                         "Replaces the suite updater files only; existing bundled modules and assets remain in place.",
+                         "After this transition update is installed, future full suite updates use the longer streamed package downloader."
                      ]
 }
