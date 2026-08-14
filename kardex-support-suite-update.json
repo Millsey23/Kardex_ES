@@ -1,15 +1,18 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.35",
-    "releaseDate":  "2026-08-14 10:20",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.35/Kardex.Support.Suite.Update.0.4.35.kdxupd",
-    "updateFileSha256":  "BAE36DE964A0D5F408203664DCF62B2F695BAF9411B925B2DBB2FD3F5C76016D",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.35/Kardex.Support.Suite.Update.0.4.35.kdxupd",
-    "packageSha256":  "BAE36DE964A0D5F408203664DCF62B2F695BAF9411B925B2DBB2FD3F5C76016D",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.35.md",
+    "version":  "0.4.36",
+    "releaseDate":  "2026-08-14 10:59",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.36/Kardex.Support.Suite.Update.0.4.36.kdxupd",
+    "updateFileSha256":  "8D46BA72C08718A6BA3E71AE504D812DD930FF23FBF902741BB99087A881B0E5",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.36/Kardex.Support.Suite.Update.0.4.36.kdxupd",
+    "packageSha256":  "8D46BA72C08718A6BA3E71AE504D812DD930FF23FBF902741BB99087A881B0E5",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.36.md",
     "releaseNotes":  [
-                         "Publishes the full suite package after the small updater transition release.",
-                         "Includes the warehouse customer-render image pack for racks, pallets, forklifts, lorry docks, conveyors, trolleys, staging areas and Kardex machine types.",
-                         "Restores the customer render output to the asset-based isometric style instead of the basic fallback drawing."
+                         "Doubles customer-render export resolution so exported warehouse render PNGs stay sharper when zoomed.",
+                         "Adds warehouse-item rotation support with 0, 90, 180 and 270 degree directions saved in project/CSV data.",
+                         "Adds Rotate 90 and Rotate 180 controls in the Warehouse Builder properties panel.",
+                         "Adds front/rear markers to warehouse items in the editor and customer renders so equipment orientation is visible.",
+                         "Adds explicit render assets for Packing Area and Packing Machine, and replaces Reception/QA with a dedicated reception-style image.",
+                         "Upgrades the warehouse render asset pack to higher-resolution component images."
                      ]
 }
