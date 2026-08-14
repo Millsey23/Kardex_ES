@@ -1,15 +1,15 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.34",
-    "releaseDate":  "2026-08-14 10:09",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.34/Kardex.Support.Suite.Update.0.4.34.kdxupd",
-    "updateFileSha256":  "D3BD4B0F2DC5250597F85CE6B0797ABC7DFB216875458B8E703B5DA5561392FA",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.34/Kardex.Support.Suite.Update.0.4.34.kdxupd",
-    "packageSha256":  "D3BD4B0F2DC5250597F85CE6B0797ABC7DFB216875458B8E703B5DA5561392FA",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.34.md",
+    "version":  "0.4.35",
+    "releaseDate":  "2026-08-14 10:20",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.35/Kardex.Support.Suite.Update.0.4.35.kdxupd",
+    "updateFileSha256":  "BAE36DE964A0D5F408203664DCF62B2F695BAF9411B925B2DBB2FD3F5C76016D",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.35/Kardex.Support.Suite.Update.0.4.35.kdxupd",
+    "packageSha256":  "BAE36DE964A0D5F408203664DCF62B2F695BAF9411B925B2DBB2FD3F5C76016D",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.35.md",
     "releaseNotes":  [
-                         "Publishes a small transition update so older installed copies can receive the updater timeout fix without downloading the full suite package inside the old 45-second limit.",
-                         "Replaces the suite updater files only; existing bundled modules and assets remain in place.",
-                         "After this transition update is installed, future full suite updates use the longer streamed package downloader."
+                         "Publishes the full suite package after the small updater transition release.",
+                         "Includes the warehouse customer-render image pack for racks, pallets, forklifts, lorry docks, conveyors, trolleys, staging areas and Kardex machine types.",
+                         "Restores the customer render output to the asset-based isometric style instead of the basic fallback drawing."
                      ]
 }
