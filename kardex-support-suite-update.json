@@ -1,15 +1,16 @@
 ﻿{
     "product":  "Kardex Support Suite",
-    "version":  "0.4.38",
-    "releaseDate":  "2026-08-14 12:21",
-    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.38/Kardex.Support.Suite.Update.0.4.38.kdxupd",
-    "updateFileSha256":  "00B670FB9B277568279F4F664F0ACAB047F8A936CFFAF930FF7E5681ABA77FE7",
-    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.38/Kardex.Support.Suite.Update.0.4.38.kdxupd",
-    "packageSha256":  "00B670FB9B277568279F4F664F0ACAB047F8A936CFFAF930FF7E5681ABA77FE7",
-    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.38.md",
+    "version":  "0.4.39",
+    "releaseDate":  "2026-08-14 13:03",
+    "updateFileUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.39/Kardex.Support.Suite.Update.0.4.39.kdxupd",
+    "updateFileSha256":  "A061B3B248B3A23C4AA22F7898BF4EB718411C276BEB26B7D20BBC14FDB8B03A",
+    "packageUrl":  "https://github.com/Millsey23/Kardex_ES/releases/download/support-suite-v0.4.39/Kardex.Support.Suite.Update.0.4.39.kdxupd",
+    "packageSha256":  "A061B3B248B3A23C4AA22F7898BF4EB718411C276BEB26B7D20BBC14FDB8B03A",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/Millsey23/Kardex_ES/main/Release%20Notes%200.4.39.md",
     "releaseNotes":  [
-                         "Raises customer warehouse render output resolution and exports closer isometric views for sharper zooming.",
-                         "Adds Goods Out and Dispatch Area render assets so outbound areas no longer appear as plain blocks.",
-                         "Defaults aisles, Kardex machines, conveyors and packing machines to east-west front/rear orientation in renders."
+                         "Improves customer warehouse renders with corrected isometric asset alignment.",
+                         "Removes render-only front/rear markers for a cleaner customer-facing image.",
+                         "Improves reception, office, goods-out, dispatch, forklift, trolley, lorry dock and packing-machine sizing.",
+                         "Exports closer high-resolution isometric views with less wasted white space."
                      ]
 }
